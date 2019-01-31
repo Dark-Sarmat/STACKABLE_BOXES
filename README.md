@@ -26,4 +26,4 @@
 
 Всю исчерпывающую информацию о доработанных моделях, параметры печати и полное описание проекта вы найдете по ссылке: https://www.ionline.by/diy/3d-pechat/3d-modeli/stekiruemye-boksy-dlya-xraneniya-radiodetalej-i-ne-tolko-31-01-2019/
 
-[Автор модели Dark_Sarmat](https://www.ionline.by)
+[Автор доработок Dark_Sarmat](https://www.ionline.by)
